@@ -1,2 +1,2 @@
 # PythonLearn
-Learning Basic Python Programming Language
+Learning Basic Syntax of Python Programming Language
